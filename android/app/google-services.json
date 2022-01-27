@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300370234776",
+    "project_id": "mocproject",
+    "storage_bucket": "mocproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300370234776:android:cb7ab4a63b1edb2a94efed",
+        "android_client_info": {
+          "package_name": "com.moc_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300370234776-fcg8c3c8ik7oq7p397abru71arvp3hab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4SMyN41vbmOUQpdwlnzCS1ZPyFWIWWkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300370234776-fcg8c3c8ik7oq7p397abru71arvp3hab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
